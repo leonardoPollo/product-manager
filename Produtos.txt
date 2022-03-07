@@ -1,0 +1,24 @@
+Carro
+Toyota
+Corolla
+145679.99
+1915
+177
+13.2
+9.6
+Smartphone
+Samsung
+Galaxy A70
+1799.99
+998
+Snapdragon 675
+128
+4500
+Fone
+HyperX
+Cloud II
+469.87
+999
+53
+60
+17-25
